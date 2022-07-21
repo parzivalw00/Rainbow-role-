@@ -1,6 +1,8 @@
 # <div align="center">Rainbow-role</div>
 
-### inpms in package.json
+### flow the install npms in package.json
+
+----
 
 ### update config.json
 
