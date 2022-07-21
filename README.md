@@ -1,10 +1,10 @@
 # <div align="center">Rainbow-role</div>
 
-### Follow the install Npms in package.json
+#### Follow the install Npms in package.json
 
 ----
 
-### update config.json
+#### update config.json
 
 ```js
 {
