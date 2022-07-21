@@ -1,5 +1,15 @@
 # <div align="center">Rainbow-role</div>
 
-## <div align="center">Npms</div>
 
-#### <div align="center">discord.js@12.5.1</div>
+```json
+{
+	"token": "TOKEN",
+	"servers": [
+		"812033108940816384", // server id 1
+		"812033108940816384" // server id 2
+	],
+	"roleName": "ᶜᵒʳ ⌥ RGB", // name of the role
+	"colors": 12, // number of the colors
+	"speed": 60000, // time to update color 
+	"logging": true
+  ```
