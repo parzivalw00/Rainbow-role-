@@ -1,5 +1,8 @@
 # <div align="center">Rainbow-role</div>
 
+# inpms in package.json
+
+### update config.json
 
 ```js
 {
