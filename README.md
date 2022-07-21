@@ -15,4 +15,5 @@
 	"colors": 12, // number of the colors
 	"speed": 60000, // time to update color 
 	"logging": true
+}
   ```
