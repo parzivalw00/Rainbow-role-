@@ -1,6 +1,6 @@
 # <div align="center">Rainbow-role</div>
 
-#### Follow the install Npms in package.json
+#### Follow the install Npm's in package.json
 
 ----
 
