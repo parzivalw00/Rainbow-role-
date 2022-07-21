@@ -1,7 +1,7 @@
 # <div align="center">Rainbow-role</div>
 
 
-```json
+```js
 {
 	"token": "TOKEN",
 	"servers": [
